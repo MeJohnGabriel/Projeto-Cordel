@@ -76,7 +76,7 @@ section.image {
     background-color: rgb(111, 111, 111);
     color: rgb(255, 255, 255);
     background-size: cover;
-    background-position: center center;
+    background-position: right center;
     background-attachment: fixed;
     box-shadow: inset 2px 4px 6px rgba(0, 0, 0, 0.484);
 }
